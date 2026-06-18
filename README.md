@@ -1,5 +1,5 @@
-## JS Calculator
-- A modern JavaScript calculation built to handle everyday arithmetic calculations with ease.
+## JS Calculator 
+ A modern JavaScript calculation built to handle everyday arithmetic calculations with ease.
 - ## Features
 - Basic arithmetic operation
 - Interactive calculator buttons
